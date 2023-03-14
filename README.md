@@ -2,14 +2,14 @@
  Selenium ve Cucumber ile n11 test projesi
  
  ## Proje Özeti
- ** POM prensipleri ve BDD metadoliji kullanıldı.**
- ** n11 magazalar sayfasında istenilen magazaya gidilebilmesi.**
- ** n11 anasayfada ürün arama ve misafir kullanıcı olarak ödeme ekranına gidilmesi.**
- ** n11 anasayfada ürün arama ve gelen sonuçların istenilen kriterlere göre filtrelenmesi.**
+ **POM prensipleri ve BDD metadolijisi kullanıldı.** <br/>
+ **n11 magazalar sayfasında istenilen magazaya gidilebilmesi.** <br/>
+ **n11 anasayfada ürün arama ve misafir kullanıcı olarak ödeme ekranına gidilmesi.** <br/>
+ **n11 anasayfada ürün arama ve gelen sonuçların istenilen kriterlere göre filtrelenmesi.** <br/>
  
  ## Kullanılan Teknolojiler
- ** Maven **
- ** Selenium WebDriver**
- ** Cucumber **
+ **Maven** <br/>
+ **Selenium WebDriver** <br/>
+ **Cucumber** <br/>
  
  
